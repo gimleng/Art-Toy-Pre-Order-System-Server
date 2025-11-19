@@ -4,6 +4,11 @@ YourArtToy is a RESTful API for an ArtToy PreOrder System API with user authenti
 
 ## 🎄 Deploy on Docker
 
+> MongoDB setup
+```
+Add your mongodb url to config/config.env
+```
+
 > Build image
 ```
 docker build -t my-backend .
